@@ -1,0 +1,1 @@
+Dans ce chapitre, nous avons appris à exécuter une requête SELECT avec PDO pour récupérer les données d’une table dans la base de données. Nous avons utilisé la méthode query() pour exécuter la requête SQL. Ensuite, nous avons récupéré les résultats avec fetchAll(PDO::FETCH_ASSOC). Enfin, nous avons affiché les données dans la page PHP en utilisant une boucle foreach.

@@ -1,0 +1,1 @@
+Dans ce chapitre, nous avons appris à connecter PHP à une base de données MySQL en utilisant PDO. Nous avons utilisé new PDO() avec les paramètres de connexion (host, dbname, user, password). Les erreurs sont gérées avec try/catch. La connexion est placée dans le fichier connexion.php pour être réutilisée.
