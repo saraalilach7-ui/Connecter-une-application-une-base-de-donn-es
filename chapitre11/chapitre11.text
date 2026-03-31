@@ -1,0 +1,5 @@
+Dans ce chapitre, on a appris à utiliser PDO pour se connecter à une base de données et exécuter des requêtes SQL simples comme SELECT, INSERT, UPDATE et DELETE.
+PDO permet de travailler avec la base de données de façon sécurisée et organisée.
+On utilise query() pour les requêtes simples et prepare() avec execute() pour plus de sécurité.
+Pour récupérer les données, on utilise fetch() ou fetchAll().
+Enfin, mettre tout dans une classe rend le code plus propre et facile à gérer.

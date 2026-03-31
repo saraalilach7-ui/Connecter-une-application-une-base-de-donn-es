@@ -1,0 +1,5 @@
+Dans ce chapitre nous avons appris à utiliser le constructeur __construct() pour initialiser automatiquement les objets.
+Nous avons vu l’héritage avec extends qui permet de réutiliser une classe dans une autre.
+La visibilité des propriétés et méthodes peut être public, protected ou private selon le niveau d’accès.
+On peut redéfinir une méthode dans une classe enfant et utiliser parent:: pour appeler la classe parent.
+Ces notions permettent de rendre le code plus structuré, réutilisable et mieux organisé en POO.

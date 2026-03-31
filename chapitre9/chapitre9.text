@@ -1,0 +1,5 @@
+Dans ce chapitre nous avons appris le principe d’encapsulation en programmation orientée objet qui consiste à protéger les données en rendant les propriétés privées.
+On utilise des getters et setters pour lire et modifier les valeurs de manière contrôlée.
+Les setters permettent aussi de valider les données avant de les enregistrer.
+L’encapsulation améliore la sécurité et la qualité du code.
+Une bonne classe doit être claire, bien structurée et respecter les bonnes pratiques de programmation

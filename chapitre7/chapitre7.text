@@ -1,0 +1,5 @@
+Dans ce chapitre nous avons appris que la classe est un modèle qui contient des propriétés et des méthodes.
+Un objet est une instance de la classe créée avec le mot-clé new.
+On utilise l’opérateur -> pour accéder aux propriétés et aux méthodes.
+Le mot-clé $this permet de référencer l’objet actuel dans la classe.
+La programmation orientée objet permet d’organiser le code et de le rendre plus clair et réutilisable.

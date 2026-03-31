@@ -1,0 +1,5 @@
+Dans ce chapitre nous avons appris à organiser les opérations CRUD en programmation orientée objet avec PHP.
+Chaque opération (Create, Read, Update, Delete) est implémentée dans une méthode au sein d’une classe.
+La connexion à la base de données est gérée avec PDO dans une classe séparée.
+Cette organisation permet d’avoir un code plus propre, réutilisable et facile à maintenir.
+Elle représente une base importante pour évoluer vers l’architecture MVC.

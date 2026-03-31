@@ -19,3 +19,4 @@ catch (PDOException $e) {
     echo "Une erreur est survenue. Contactez l'administrateur.";
 }
 
+
