@@ -28,3 +28,9 @@ class BlogArticle extends Article {
         return parent::afficher() . " - Auteur : " . $this->auteur;
     }
 }
+
+
+  
+
+
+
